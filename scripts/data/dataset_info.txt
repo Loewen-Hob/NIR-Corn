@@ -1,0 +1,6 @@
+total_samples: 2000
+spectral_dimensions: 700
+target_variables: ['Moisture', 'Starch', 'Oil', 'Protein']
+data_source: Real + Interpolated samples
+real_samples: 80
+interpolated_samples: 1920
